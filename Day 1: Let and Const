@@ -1,0 +1,12 @@
+ // Print the area of the circle:'
+    
+    // Print the perimeter of the circle:
+
+ANS:
+    var p=Math.PI;
+    var rad=readLine();
+    var area=p*rad*rad;
+    var peri=2*p*rad;
+    console.log(area);
+    console.log(peri);
+    
