@@ -1,0 +1,11 @@
+<body onkeypress="hello()">
+    <button onclick="hello()">click me</button>
+    <p ondblclick="hello()">double click on me</p>
+    <p oncontextmenu="hello()">right click on me</p>
+    <p onmouseenter="hello()">enter mouse </p>
+    <p onmouseout="hello()">out mouse from me </p>
+    <p onmousedown="hello()">click me</p>
+    <p onmouseup="hello()">click</p>
+
+
+</body>
